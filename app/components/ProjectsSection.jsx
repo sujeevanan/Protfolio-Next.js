@@ -12,7 +12,7 @@ const projectsData = [
       "A personal portfolio built with Next.js, Tailwind CSS, and Framer Motion, showcasing my projects and skills. Includes a contact form that sends emails directly to my inbox.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/sujeevanan/Protfolio-Next.js.git",
     previewUrl: "/",
   },
   {
@@ -33,7 +33,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://github.com/sujeevanan/Todo-app-Mern-.git",
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ const projectsData = [
       "A stylish and interactive website built using HTML, CSS, and JavaScript. The platform includes a search functionality to help users easily find desired fashion items and delivers a seamless browsing experience with a modern, responsive design.",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/sujeevanan/fasionFusion-website.git",
     previewUrl: "/",
   },
   {
@@ -52,7 +52,7 @@ const projectsData = [
       "A dynamic weather application built with React and powered by the Weather API. The app provides real-time weather updates, including temperature, humidity, and conditions for any location entered by the user. Designed with a responsive and user-friendly interface.",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/sujeevanan/Weather-App-.git",
     previewUrl: "/",
   },
   {
@@ -62,7 +62,7 @@ const projectsData = [
       "SujeesKitchen is a responsive e-commerce website built with React and Tailwind CSS. The website allows users to search for products, categorize them by price and type, and manage their shopping cart by adding or removing items.",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/sujeevanan/SujeesKitchen-website-.git",
     previewUrl: "/",
   },
 ];
