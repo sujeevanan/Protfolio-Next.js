@@ -22,7 +22,7 @@ const projectsData = [
       "A fully functional food delivery web application for the university canteen. Built using the MERN stack, it integrates Stripe for secure payments and Toastify for real-time notifications, offering a seamless user experience.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/sujeevanan/Protfolio-Next.js.git",
     previewUrl: "/",
   },
   {
